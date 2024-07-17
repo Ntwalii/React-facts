@@ -1,1 +1,4 @@
-ReactDOM.render(<h1 className="text-gray-600">Hello</h1>,document.getElementById("root"))
+ReactDOM.render(<ol>
+    <li>First</li>
+    <li>Second</li>
+</ol>,document.getElementById("root"))
